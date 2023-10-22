@@ -23,7 +23,6 @@ alugados= {}
 
 lucro = []
 
-
 def mostrar():
     print('','='*32, f'\n Seja bem vindo a minha locadora!\n', '='*32,'\n\n','='*43 ,f'\n Estes são os carros disponíveis no momento.\n', '='*43)
     for idx, marca in portfolio.items():
